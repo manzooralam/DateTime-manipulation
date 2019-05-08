@@ -17,7 +17,8 @@
   
    if I know a user’s local time and know their timezone, I can convert that to UTC.
    
-   <a href="https://ibb.co/BfJvkKr"><img src="https://i.ibb.co/BfJvkKr/time.png" alt="time" border="0"></a>
+       <a href="https://ibb.co/BfJvkKr"><img src="https://i.ibb.co/BfJvkKr/time.png" alt="time" border="0">
+       </a>
    
    For 00:00 or UTC, we use “Z” instead, which means Zulu time, another name for UTC.
    
@@ -109,7 +110,7 @@ var today = new Date().toLocaleDateString(undefined, {
 ```
 This outputs “07/26/2016”.
 
-<a href="https://ibb.co/ZS98fGH"><img src="https://i.ibb.co/ZS98fGH/time-t.png" alt="time-t" border="0"></a>
+         <a href="https://ibb.co/ZS98fGH"><img src="https://i.ibb.co/ZS98fGH/time-t.png" alt="time-t" border="0"></a>
 
 
 ## Reference:
