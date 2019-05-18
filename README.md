@@ -118,7 +118,7 @@ This outputs “07/26/2016”.
 
 (See)[https://www.toptal.com/software/definitive-guide-to-datetime-manipulation]
 
-
+(Convert date from 'Thu Jun 09 2011 00:00:00 GMT+0530 (India Standard Time)' to 'YYYY-MM-DD' in javascript)[https://stackoverflow.com/questions/6291225/convert-date-from-thu-jun-09-2011-000000-gmt0530-india-standard-time-to]
 
 
  
